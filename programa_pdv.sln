@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36310.24 d17.14
+VisualStudioVersion = 17.14.36310.24
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa_pdv", "programa_pdv\programa_pdv.csproj", "{67038DFA-F804-4D08-9287-A819CDECC8BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cad-vendedor", "..\..\..\Downloads\cad-vendedorN\cad-vendedorN\cad-vendedor.csproj", "{3689EBB0-86DC-48A4-89B4-1FF24C6B2E87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YZIDRO", "..\..\..\Downloads\projeto_yzidro\YZIDRO\YZIDRO\YZIDRO.csproj", "{A8E53290-C210-4CBE-A047-E2F4DAC88B20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{67038DFA-F804-4D08-9287-A819CDECC8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67038DFA-F804-4D08-9287-A819CDECC8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67038DFA-F804-4D08-9287-A819CDECC8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3689EBB0-86DC-48A4-89B4-1FF24C6B2E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3689EBB0-86DC-48A4-89B4-1FF24C6B2E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3689EBB0-86DC-48A4-89B4-1FF24C6B2E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3689EBB0-86DC-48A4-89B4-1FF24C6B2E87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8E53290-C210-4CBE-A047-E2F4DAC88B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E53290-C210-4CBE-A047-E2F4DAC88B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E53290-C210-4CBE-A047-E2F4DAC88B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E53290-C210-4CBE-A047-E2F4DAC88B20}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

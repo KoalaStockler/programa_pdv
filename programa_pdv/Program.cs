@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Windows.Forms;
+using cad_vendedorN;
 
 namespace CadastroProdutosMercado
 {
@@ -10,7 +11,7 @@ namespace CadastroProdutosMercado
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new login());
         }
     }
 }
